@@ -7,8 +7,8 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll", "~> 3.9.3"
+# Happy Jekylling! For local Dev uncomment below
+# gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -17,4 +17,4 @@ gem "minima", "~> 2.0"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-# gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8" # Comment this for local dev
