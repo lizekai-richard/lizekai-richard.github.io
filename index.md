@@ -4,19 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Engineers live their lives considering the ‘what-ifs’ of applied science, with the primary goal being to improve life. This mindset begins with asking: How do things work and can I make them better?
+
+As a software engineer, I can appreciate the complexity and depth required to answer these questions. My passion stems from an innate drive to ‘look beyond what is’. 
+
+My name is Samir Khaki. 
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Efficient Deep Learning:** efficient inferencing, knowledge/data distillation, model compression
+- **Computer Vision:** image recognition, image generation, foundation models
+- **Machine Learning:** meta-learning, continual learning, contrastive learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2023]** Our paper about dataset distillation is accepted to ICCV 2023.
+- **[May. 2023]** Our paper on Frequency-based Model Compression is accepted to ECV-CVPR 2023
+
 
 {% include_relative _includes/publications.md %}
 

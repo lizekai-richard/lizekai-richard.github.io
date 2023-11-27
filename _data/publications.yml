@@ -1,22 +1,31 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "DataDAM: Efficient Dataset Distillation with Attention Matching"
+    authors:  <strong>Ahmad Sajedi*</strong>, <strong>Samir Khaki*</strong>, Ehsan Amjadian, Lucy Z. Liu, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Sajedi_DataDAM_Efficient_Dataset_Distillation_with_Attention_Matching_ICCV_2023_paper.pdf
+    code: https://github.com/DataDistillation/DataDAM
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICCV23-DataDAM.png
+    notes: Accept (Poster)
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "CFDP: Common Frequency Domain Pruning"
+    authors:  <strong>Samir Khaki*</strong>, Weihan Luo
+    conference_short: CVPR-ECV
+    conference: "Conference on Computer Vision and Pattern Recognition: Efficient Computer Vision Workshop <strong>(CVPR-ECV)</strong>, 2023."
+    pdf: https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Khaki_CFDP_Common_Frequency_Domain_Pruning_CVPRW_2023_paper.html
+    code: https://github.com/Skhaki18/CFDP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/CVPR23-CFDP.png
+    notes: Accept (Poster)
+
+  - title: "End-to-End Supervised Multilabel Contrastive Learning"
+    authors:  <strong>Ahmad Sajedi*</strong>, <strong>Samir Khaki*</strong>, Konstantinos N. Plataniotis, and  Mahdi S. Hosseini
+    conference_short: Arxiv
+    conference: Arxiv Pre-Print, 2023.
+    pdf: https://arxiv.org/pdf/2307.03967.pdf
+    code: https://github.com/mahdihosseini/KMCL
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/KMCL2023.png
+    notes: Early Pre-Print
