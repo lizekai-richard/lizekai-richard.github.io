@@ -16,6 +16,7 @@ main:
     conference: "Conference on Computer Vision and Pattern Recognition: Efficient Computer Vision Workshop <strong>(CVPR-ECV)</strong>, 2023."
     pdf: https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Khaki_CFDP_Common_Frequency_Domain_Pruning_CVPRW_2023_paper.html
     code: https://github.com/Skhaki18/CFDP
+    page: https://skhaki18.github.io/CFDP/
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CVPR23-CFDP.png
     notes: Accept (Poster)
