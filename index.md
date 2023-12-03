@@ -17,8 +17,8 @@ My name is Samir Khaki.
 
 ## News
 
-- **[Jul. 2023]** Our paper about dataset distillation is accepted to ICCV 2023.
-- **[May. 2023]** Our paper on Frequency-based Model Compression is accepted to ECV-CVPR 2023
+- **[Jul. 2023]** My paper on dataset distillation is accepted to ICCV 2023.
+- **[May. 2023]** My paper on Frequency-based Model Compression is accepted to ECV-CVPR 2023
 
 
 {% include_relative _includes/publications.md %}
