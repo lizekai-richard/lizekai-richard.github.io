@@ -6,7 +6,7 @@ layout: homepage
 
 Engineers live their lives considering the ‘what-ifs’ of applied science, with the primary goal being to improve life. This mindset begins with asking: How do things work and can I make them better?
 
-As a software engineer, I can appreciate the complexity and depth required to answer these questions. My passion stems from an innate drive to ‘look beyond what is’. 
+As a researcher and engineer, I can appreciate the complexity and depth required to answer these questions. My passion stems from an innate drive to ‘look beyond what is’. 
 
 ## Research Interests
 - **Efficient Deep Learning:** efficient inferencing, knowledge/data distillation, model compression
