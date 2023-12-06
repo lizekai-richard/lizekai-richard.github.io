@@ -1,7 +1,7 @@
 main:
 
   - title: "DataDAM: Efficient Dataset Distillation with Attention Matching"
-    authors:  <strong>Ahmad Sajedi*</strong>, <strong>Samir Khaki*</strong>, Ehsan Amjadian, Lucy Z. Liu, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
+    authors:  Ahmad Sajedi*, <strong>Samir Khaki*</strong>, Ehsan Amjadian, Lucy Z. Liu, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Sajedi_DataDAM_Efficient_Dataset_Distillation_with_Attention_Matching_ICCV_2023_paper.pdf
@@ -12,7 +12,7 @@ main:
     notes: Accept (Poster)
 
   - title: "CFDP: Common Frequency Domain Pruning"
-    authors:  <strong>Samir Khaki*</strong>, Weihan Luo
+    authors:  <strong>Samir Khaki</strong>, Weihan Luo
     conference_short: CVPR-ECV
     conference: "Conference on Computer Vision and Pattern Recognition: Efficient Computer Vision Workshop <strong>(CVPR-ECV)</strong>, 2023."
     pdf: https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Khaki_CFDP_Common_Frequency_Domain_Pruning_CVPRW_2023_paper.html
@@ -23,7 +23,7 @@ main:
     notes: Accept (Poster)
 
   - title: "End-to-End Supervised Multilabel Contrastive Learning"
-    authors:  <strong>Ahmad Sajedi*</strong>, <strong>Samir Khaki*</strong>, Konstantinos N. Plataniotis, and  Mahdi S. Hosseini
+    authors:  Ahmad Sajedi*, <strong>Samir Khaki*</strong>, Konstantinos N. Plataniotis, and  Mahdi S. Hosseini
     conference_short: Arxiv
     conference: Arxiv Pre-Print, 2023.
     pdf: https://arxiv.org/pdf/2307.03967.pdf

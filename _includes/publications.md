@@ -1,5 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications</h2>
-
+<br>
+<i id="publications" style="margin: 2px 0px -15px;">* Equal Contribution</i>
 <div class="publications">
 <ol class="bibliography">
 
@@ -47,6 +48,8 @@
 <br>
 
 {% endfor %}
+<!-- <br> -->
+<i id="publications" style="margin: 2px 0px -15px;"> See full publication list on Google Scholar </i>
 
 </ol>
 </div>
