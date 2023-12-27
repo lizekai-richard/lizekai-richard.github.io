@@ -1,7 +1,7 @@
 main:
 
   - title: "The Need for Speed: Pruning Transformers with One Recipe"
-    authors:  <strong>Samir Khaki</strong>, and Konstantinos N. Plataniotis
+    authors:  <strong>Samir Khaki</strong> and Konstantinos N. Plataniotis
     conference_short: ICLR
     conference: IEEE International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://openreview.net/forum?id=MVmT6uQ3cQ
