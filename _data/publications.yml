@@ -1,13 +1,17 @@
 main:
 
+  - title: "The Need for Speed: Pruning Transformers with One Recipe"
+    authors:  <strong>Samir Khaki</strong>, and Konstantinos N. Plataniotis
+    conference_short: ICLR
+    conference: IEEE International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://openreview.net/forum?id=MVmT6uQ3cQ
+    image: ./assets/img/ICLR24-Transformer.png
+    notes: Under Review
+
   - title: "ProbMCL: Simple Probabilistic Contrastive Learning For Multi-label Visual Classification"
     authors:  Ahmad Sajedi, <strong>Samir Khaki</strong>, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
-    # pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Sajedi_DataDAM_Efficient_Dataset_Distillation_with_Attention_Matching_ICCV_2023_paper.pdf
-    # code: https://github.com/DataDistillation/DataDAM
-    # page: https://datadistillation.github.io/DataDAM/
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ICASSP24-ProbMCL.jpg
     notes: Accept (Poster)
 
@@ -18,7 +22,6 @@ main:
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Sajedi_DataDAM_Efficient_Dataset_Distillation_with_Attention_Matching_ICCV_2023_paper.pdf
     code: https://github.com/DataDistillation/DataDAM
     page: https://datadistillation.github.io/DataDAM/
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ICCV23-DataDAM.png
     notes: Accept (Poster)
 
@@ -29,7 +32,6 @@ main:
     pdf: https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Khaki_CFDP_Common_Frequency_Domain_Pruning_CVPRW_2023_paper.html
     code: https://github.com/Skhaki18/CFDP
     page: https://skhaki18.github.io/CFDP/
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/CVPR23-CFDP.png
     notes: Accept (Poster)
 
@@ -39,6 +41,5 @@ main:
     conference: Arxiv Pre-Print, 2023.
     pdf: https://arxiv.org/pdf/2307.03967.pdf
     code: https://github.com/mahdihosseini/KMCL
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/KMCL2023.png
     notes: Early Pre-Print
