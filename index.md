@@ -15,6 +15,7 @@ As a researcher and engineer, I can appreciate the complexity and depth required
 
 ## News
 
+**[Jan. 2024]** | My paper on efficient model compression for transformers is accepted to ICLR 2024.
 **[Dec. 2023]** | My paper on efficient probabilistic contrastive learning is accepted to ICASSP 2024.
 **[Jul. 2023]** | My paper on dataset distillation is accepted to ICCV 2023.            
 **[May 2023]** | My paper on Frequency-based Model Compression is accepted to ECV-CVPR 2023.   
