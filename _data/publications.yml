@@ -6,7 +6,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://openreview.net/forum?id=MVmT6uQ3cQ
     image: ./assets/img/ICLR24-Transformer.png
-    notes: Under Review
+    notes: Accept (Poster)
 
   - title: "ProbMCL: Simple Probabilistic Contrastive Learning For Multi-label Visual Classification"
     authors:  Ahmad Sajedi, <strong>Samir Khaki</strong>, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
