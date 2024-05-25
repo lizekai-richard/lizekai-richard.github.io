@@ -13,7 +13,7 @@ main:
   - title: "ATOM: Attention Mixer for Efficient Dataset Distillation"
     authors:  <strong>Samir Khaki*</strong>, Ahmad Sajedi*, Kai Wang, Lucy Z. Liu, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
     conference_short: CVPR-DD
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition: Dataset Distillation Workshop <strong>(CVPR-ECV)</strong>, 2024."
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition: Dataset Distillation Workshop <strong>(CVPR-DD)</strong>, 2024."
     pdf: https://openreview.net/forum?id=MVmT6uQ3cQ
     image: ./assets/img/CVPR24-ATOM.png
     code: https://github.com/DataDistillation/ATOM
