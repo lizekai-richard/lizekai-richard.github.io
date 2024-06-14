@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a graduate student at the Univeristy of Toronto researching efficient machine learning applied to computer vision and natural language processing. Currently at Google building multi-modal machine learning models.
+I am a graduate student at the University of Toronto researching efficient machine learning applied to computer vision and natural language processing. Currently at Google building multi-modal machine learning models.
 
 ## Research Interests
 - **Efficient Deep Learning:** efficient inferencing, knowledge/data distillation, model compression
