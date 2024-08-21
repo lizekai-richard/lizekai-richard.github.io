@@ -1,5 +1,24 @@
 main:
+  - title: "Data-to-Model Distillation: Data-Efficient Learning Framework"
+    authors:  Ahmad Sajedi*, <strong>Samir Khaki*</strong>, Lucy Z. Liu, Ehsan Amjadian, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    # pdf: 
+    image: ./assets/img/ECCV24-D2M.png
+    # code: 
+    # page: https://datadistillation.github.io/D2M/
+    notes: Accept (Poster)
+    
+  - title: "Sparse Refinement for Efficient High-Resolution Semantic Segmentation"
+    authors: Zhijian Liu*, Zhuoyang Zhang*, <strong>Samir Khaki</strong>, Shang Yang, Haotian Tang, Chenfeng Xu, Kurt Keutzer, and Song Han
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2407.19014
+    image: ./assets/img/ECCV24-SR.png
+    # code: 
+    page: https://hanlab.mit.edu/projects/sparserefine
 
+    notes: Accept (Poster)
   - title: "The Need for Speed: Pruning Transformers with One Recipe"
     authors:  <strong>Samir Khaki</strong> and Konstantinos N. Plataniotis
     conference_short: ICLR
