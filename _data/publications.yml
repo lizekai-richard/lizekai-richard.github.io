@@ -58,22 +58,3 @@ main:
     page: https://datadistillation.github.io/DataDAM/
     image: ./assets/img/ICCV23-DataDAM.png
     notes: Accept (Poster)
-
-  - title: "CFDP: Common Frequency Domain Pruning"
-    authors:  <strong>Samir Khaki</strong>, Weihan Luo
-    conference_short: CVPR-ECV
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition: Efficient Computer Vision Workshop <strong>(CVPR-ECV)</strong>, 2023."
-    pdf: https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Khaki_CFDP_Common_Frequency_Domain_Pruning_CVPRW_2023_paper.html
-    code: https://github.com/Skhaki18/CFDP
-    page: https://skhaki18.github.io/CFDP/
-    image: ./assets/img/CVPR23-CFDP.png
-    notes: Accept (Poster)
-
-  - title: "End-to-End Supervised Multilabel Contrastive Learning"
-    authors:  Ahmad Sajedi*, <strong>Samir Khaki*</strong>, Konstantinos N. Plataniotis, and  Mahdi S. Hosseini
-    conference_short: Arxiv
-    conference: Arxiv Pre-Print, 2023.
-    pdf: https://arxiv.org/pdf/2307.03967.pdf
-    code: https://github.com/mahdihosseini/KMCL
-    image: ./assets/img/KMCL2023.png
-    notes: Early Pre-Print
