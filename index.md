@@ -14,12 +14,13 @@ Konstantinos N Plataniotis) and Carnegie Mellon University (advised by professor
 - **Generative Models:** parameter generation
 - **Natural Language Processing:** question-answering, LLM factuality and unlearning
 
-## News
+{% include_relative _includes/research.md %}
 
+## News
 **[Oct. 2023]**  I've joined NUS HPC-A! Lab as a research assistant supervised by Professor Yang You and Dr. Kai Wang.  
 **[May. 2023]**  I've joined NUS WING as an undergraduate researcher supervised by Professor Kan Min-Yen.
 **[Feb. 2023]**  My paper on multi-hop question answering is accepted to ICASSP 2023.
 
-{% include_relative _includes/research.md %}
+
 {% include_relative _includes/publications.md %}
 
