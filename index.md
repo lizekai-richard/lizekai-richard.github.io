@@ -4,25 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a graduate student at the University of Toronto researching efficient machine learning applied to computer vision and natural language processing. Currently at Google building multi-modal machine learning models.
+I am an undergraduate student at the National University of Singapore. I'm intertested in efficient machine learning, 
+such as dataset distillation, parameter generation, etc. I'm honored to be supervised by Dr. Kai Wang and Professor
+Yang You at NUS HPC-AI Lab. I have done research internships remotely at University of Toronto (advised by professor
+Konstantinos N Plataniotis) and Carnegie Mellon University (advised by professor Alexander Hauptmann and Dr. Zhi-qi Cheng).
 
 ## Research Interests
-- **Efficient Deep Learning:** efficient inferencing, knowledge/data distillation, model compression
-- **Computer Vision:** image recognition, image generation, foundation models
-- **Machine Learning:** meta-learning, continual learning, contrastive learning
+- **Efficient Deep Learning:** dataset distillation, model compression
+- **Generative Models:** parameter generation
+- **Natural Language Processing:** question-answering, LLM factuality and unlearning
 
 ## News
 
-**[Jul. 2024]**  Excited to announce **two papers at ECCV 2024** this year!  
-**[Jun. 2024]**  I was awarded the Vector Scholarship in AI.  
-**[Jun. 2024]**  Delivered an oral presentation for my paper on dataset distillation at CVPR-DD 2024.  
-**[Jan. 2024]**  My paper on efficient model compression for transformers is accepted to ICLR 2024.  
-**[Dec. 2023]**  My paper on efficient probabilistic contrastive learning is accepted to ICASSP 2024.  
-**[Jul. 2023]**  My paper on dataset distillation is accepted to ICCV 2023.
+**[Oct. 2023]**  I've joined NUS HPC-A! Lab as a research assistant supervised by Professor Yang You and Dr. Kai Wang.  
+**[May. 2023]**  I've joined NUS WING as an undergraduate researcher supervised by Professor Kan Min-Yen.
+**[Feb. 2023]**  My paper on multi-hop question answering is accepted to ICASSP 2023.
 
-
+{% include_relative _includes/research.md %}
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/industry.md %}
-
-{% include_relative _includes/services.md %}

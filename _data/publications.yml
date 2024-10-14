@@ -1,60 +1,41 @@
 main:
-  - title: "Data-to-Model Distillation: Data-Efficient Learning Framework"
-    authors:  Ahmad Sajedi*, <strong>Samir Khaki*</strong>, Lucy Z. Liu, Ehsan Amjadian, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+  - title: "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios"
+    authors:  Kai Wang*, <strong>Zekai Li*</strong>, Zhiqi Cheng, Samir Khaki, Ahmad Sajedi, Ramakrishna Vedantam, Konstantinos N Plataniotis, Alexander Hauptmann, and Yang You
+#    conference_short: ECCV
+#    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     # pdf: 
-    image: ./assets/img/ECCV24-D2M.png
+    image: ./assets/img/EDF.png
     # code: 
     # page: https://datadistillation.github.io/D2M/
-    notes: Accept (Poster)
+    notes: Under Review
     
-  - title: "Sparse Refinement for Efficient High-Resolution Semantic Segmentation"
-    authors: Zhijian Liu*, Zhuoyang Zhang*, <strong>Samir Khaki</strong>, Shang Yang, Haotian Tang, Chenfeng Xu, Kurt Keutzer, and Song Han
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2407.19014
-    image: ./assets/img/ECCV24-SR.png
+  - title: "Prioritize Alignment in Dataset Distillation"
+    authors: <strong>Zekai Li*</strong>, Ziyao Guo*, Wangbo Zhao, Tianle Zhang, Zhi-Qi Cheng, Samir Khaki, Kaipeng Zhang, Ahmad Sajedi, Konstantinos N Plataniotis, Kai Wang, Yang You
+#    conference_short: ECCV
+#    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    # pdf: https://arxiv.org/abs/2407.19014
+    image: ./assets/img/PAD.png
     # code: 
-    page: https://hanlab.mit.edu/projects/sparserefine
+    # page: https://hanlab.mit.edu/projects/sparserefine
 
-    notes: Accept (Poster)
-  - title: "The Need for Speed: Pruning Transformers with One Recipe"
-    authors:  <strong>Samir Khaki</strong> and Konstantinos N. Plataniotis
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2405.01373
-    image: ./assets/img/ICLR24-Transformer.png
-    code: https://github.com/Skhaki18/optin-transformer-pruning
-    page: http://www.samirkhaki.com/optin-transformer-pruning/
-    notes: Accept (Poster)
+    notes: Under Review
 
-  - title: "ATOM: Attention Mixer for Efficient Dataset Distillation"
-    authors:  <strong>Samir Khaki*</strong>, Ahmad Sajedi*, Kai Wang, Lucy Z. Liu, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
-    conference_short: CVPR-DD
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition: Dataset Distillation Workshop <strong>(CVPR-DD)</strong>, 2024."
-    pdf: https://openreview.net/forum?id=MVmT6uQ3cQ
-    image: ./assets/img/CVPR24-ATOM.png
-    code: https://github.com/DataDistillation/ATOM
-    # page: 
-    notes: Accept (Oral)
+  - title: "A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training"
+    authors:  Kai Wang, Yukun Zhou, Mingjia Shi, <strong>Zekai Li</strong>, Zhihang Yuan, Yuzhang Shang, Xiaojiang Peng, Hanwang Zhang, Yang You
+#    conference_short: ICLR
+#    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+#    pdf: https://arxiv.org/pdf/2405.01373
+    image: ./assets/img/Speed.png
+#    code: https://github.com/Skhaki18/optin-transformer-pruning
+#    page: http://www.samirkhaki.com/optin-transformer-pruning/
+    notes: Under Review
 
-  - title: "ProbMCL: Simple Probabilistic Contrastive Learning For Multi-label Visual Classification"
-    authors:  Ahmad Sajedi, <strong>Samir Khaki</strong>, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
+  - title: "Self-Adaptive Reasoning on Sub-Questions for Multi-Hop Question Answering"
+    authors:  <strong>Zekai Li</strong>, Wei Peng
     conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2401.01448
-    code: https://github.com/AhmadSajedii/ProbMCL
-    page: https://ahmadsajedii.github.io/ProbMCL/
-    image: ./assets/img/ICASSP24-ProbMCL.jpg
-    notes: Accept (Poster)
-
-  - title: "DataDAM: Efficient Dataset Distillation with Attention Matching"
-    authors:  Ahmad Sajedi*, <strong>Samir Khaki*</strong>, Ehsan Amjadian, Lucy Z. Liu, Yuri A. Lawryshyn, and Konstantinos N. Plataniotis
-    conference_short: ICCV
-    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
-    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Sajedi_DataDAM_Efficient_Dataset_Distillation_with_Attention_Matching_ICCV_2023_paper.pdf
-    code: https://github.com/DataDistillation/DataDAM
-    page: https://datadistillation.github.io/DataDAM/
-    image: ./assets/img/ICCV23-DataDAM.png
+    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023."
+    # pdf: https://openreview.net/forum?id=MVmT6uQ3cQ
+    image: ./assets/img/SAR.png
+    # code: https://github.com/DataDistillation/ATOM
+    # page: 
     notes: Accept (Poster)
