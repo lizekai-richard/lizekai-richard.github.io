@@ -1,8 +1,8 @@
 # Basic Information 
-title: Samir Khaki
-position: Machine Learning Researcher / Engineer
-affiliation: University of Toronto
-email: samir.khaki (at) mail.utoronto.ca
+title: Zekai Li
+position: Research Assistant
+affiliation: National Univeristy of Singapore
+email: lizekai (at) u.nus.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,11 +12,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=XUyUZY4AAAAJ&hl=en
-cv_link: assets/files/Samir-Khaki-Resume-2023.pdf
-aca_cv_link: assets/files/Samir-Khaki-Academic-Resume-2023.pdf
-github_link: https://github.com/Skhaki18
-linkedin: https://ca.linkedin.com/in/samir-khaki-0125861b7
+google_scholar: https://scholar.google.com/citations?user=1tZ6zC8AAAAJ&hl=en
+cv_link: assets/files/resume.pdf
+aca_cv_link: assets/files/resume.pdf
+github_link: https://github.com/lizekai-richard
+linkedin: https://www.linkedin.com/in/zekai-li-047350219/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -39,7 +39,6 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
