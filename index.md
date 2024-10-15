@@ -7,9 +7,9 @@ layout: homepage
 I am an undergraduate student at the National University of Singapore. I'm interested in efficient machine learning, 
 such as dataset distillation, parameter generation, etc. I'm honored to be supervised by Dr. [Kai Wang](https://kaiwang960112.github.io/) and Professor
 [Yang You](https://www.comp.nus.edu.sg/~youy/) at [NUS HPC-AI Lab](https://ai.comp.nus.edu.sg/). I have done research internships remotely at University of Toronto (advised by professor
-[Konstantinos N Plataniotis](https://www.plataniotis.com/)) and Carnegie Mellon University (advised by professor [Alexander Hauptmann](https://www.cs.cmu.edu/~alex/) and Dr. [Zhi-qi Cheng](https://zhiqic.github.io/homepage/index.html)).
+[Konstantinos N Plataniotis](https://www.plataniotis.com/)) and Carnegie Mellon University (advised by professor [Alexander Hauptmann](https://www.cs.cmu.edu/~alex/) and Dr. [Zhi-Qi Cheng](https://zhiqic.github.io/homepage/index.html)).
 
-Prior to that, I was a member at [NUS WING](https://wing.comp.nus.edu.sg/) supervised by Professor [Kan Min-Yen](https://www.comp.nus.edu.sg/~kanmy/) on my UROP.
+Prior to that, I was a member at [NUS WING](https://wing.comp.nus.edu.sg/) supervised by Professor [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) on my UROP.
 
 ## Research Interests
 
