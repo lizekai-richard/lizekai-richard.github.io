@@ -3,7 +3,7 @@ main:
     authors:  Kai Wang*, <strong>Zekai Li*</strong>, Zhiqi Cheng, Samir Khaki, Ahmad Sajedi, Ramakrishna Vedantam, Konstantinos N Plataniotis, Alexander Hauptmann, and Yang You
 #    conference_short: ECCV
 #    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    # pdf: 
+    pdf: https://arxiv.org/pdf/2410.17193
     image: ./assets/img/EDF.png
     # code: 
     # page: https://datadistillation.github.io/D2M/
@@ -13,7 +13,7 @@ main:
     authors: <strong>Zekai Li*</strong>, Ziyao Guo*, Wangbo Zhao, Tianle Zhang, Zhi-Qi Cheng, Samir Khaki, Kaipeng Zhang, Ahmad Sajedi, Konstantinos N Plataniotis, Kai Wang, Yang You
 #    conference_short: ECCV
 #    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    # pdf: https://arxiv.org/abs/2407.19014
+    pdf: https://arxiv.org/pdf/2408.03360
     image: ./assets/img/PAD.png
     # code: 
     # page: https://hanlab.mit.edu/projects/sparserefine
@@ -24,7 +24,7 @@ main:
     authors:  Kai Wang, Yukun Zhou, Mingjia Shi, <strong>Zekai Li</strong>, Zhihang Yuan, Yuzhang Shang, Xiaojiang Peng, Hanwang Zhang, Yang You
 #    conference_short: ICLR
 #    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-#    pdf: https://arxiv.org/pdf/2405.01373
+    pdf: https://arxiv.org/pdf/2405.17403
     image: ./assets/img/Speed.png
 #    code: https://github.com/Skhaki18/optin-transformer-pruning
 #    page: http://www.samirkhaki.com/optin-transformer-pruning/
@@ -34,7 +34,7 @@ main:
     authors:  <strong>Zekai Li</strong>, Wei Peng
     conference_short: ICASSP
     conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023."
-    # pdf: https://openreview.net/forum?id=MVmT6uQ3cQ
+    pdf: https://ieeexplore.ieee.org/document/10097206
     image: ./assets/img/SAR.png
     # code: https://github.com/DataDistillation/ATOM
     # page: 
