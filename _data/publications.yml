@@ -5,7 +5,7 @@ main:
 #    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2410.17193
     image: ./assets/img/EDF.png
-    # code: 
+    code: https://github.com/NUS-HPC-AI-Lab/EDF
     # page: https://datadistillation.github.io/D2M/
     notes: Under Review
     
@@ -15,7 +15,7 @@ main:
 #    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2408.03360
     image: ./assets/img/PAD.png
-    # code: 
+    code: https://github.com/NUS-HPC-AI-Lab/PAD
     # page: https://hanlab.mit.edu/projects/sparserefine
 
     notes: Under Review
@@ -26,7 +26,7 @@ main:
 #    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2405.17403
     image: ./assets/img/Speed.png
-#    code: https://github.com/Skhaki18/optin-transformer-pruning
+    code: https://github.com/Skhaki18/optin-transformer-pruning
 #    page: http://www.samirkhaki.com/optin-transformer-pruning/
     notes: Under Review
 
