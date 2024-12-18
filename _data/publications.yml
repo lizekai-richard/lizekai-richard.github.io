@@ -8,6 +8,16 @@ main:
     code: https://github.com/NUS-HPC-AI-Lab/EDF
     # page: https://datadistillation.github.io/D2M/
     notes: Under Review
+
+  - title: "Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training"
+    authors: Mingjia Shi1*, Yuhao Zhou2*, Ruiji Yu, Zekai Li, Zhiyuan Liang, Xuanlei Zhao, Xiaojiang Peng, Tanmay Rajpurohit, Ramakrishna Vedantam, Wangbo Zhao, Kai Wang, Yang You
+    #    conference_short: ECCV
+    #    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2412.12496
+    image: ./assets/img/R-Meeto.png
+    code: https://github.com/NUS-HPC-AI-Lab/R-MeeTo
+    page: https://bdemo.github.io/R-MeeTo/
+    notes: Under Review
     
   - title: "Prioritize Alignment in Dataset Distillation"
     authors: <strong>Zekai Li*</strong>, Ziyao Guo*, Wangbo Zhao, Tianle Zhang, Zhi-Qi Cheng, Samir Khaki, Kaipeng Zhang, Ahmad Sajedi, Konstantinos N Plataniotis, Kai Wang, Yang You
