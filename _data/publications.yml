@@ -1,4 +1,13 @@
 main:
+  - title: "DD-Ranking: Rethinking the Evaluation of Dataset Distillation"
+    authors: Zekai Li (project lead), Xinhao Zhong, Zhiyuan Liang, Yuhao Zhou, Mingjia Shi, Ziqiao Wang
+    pdf: 
+    image: ./assets/img/DD-Ranking.png
+    code: https://github.com/NUS-HPC-AI-Lab/DD-Ranking
+    page: https://nus-hpc-ai-lab.github.io/DD-Ranking/
+    notes: Releasing Soon
+
+main:
   - title: "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios"
     authors:  Kai Wang*, <strong>Zekai Li*</strong>, Zhiqi Cheng, Samir Khaki, Ahmad Sajedi, Ramakrishna Vedantam, Konstantinos N Plataniotis, Alexander Hauptmann, and Yang You
 #    conference_short: ECCV
