@@ -9,11 +9,22 @@ main:
 
   - title: "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios"
     authors:  Kai Wang*, <strong>Zekai Li*</strong>, Zhiqi Cheng, Samir Khaki, Ahmad Sajedi, Ramakrishna Vedantam, Konstantinos N Plataniotis, Alexander Hauptmann, and Yang You
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
     pdf: https://arxiv.org/pdf/2410.17193
     image: ./assets/img/EDF.png
     code: https://github.com/NUS-HPC-AI-Lab/EDF
-    # page: https://datadistillation.github.io/D2M/
-    notes: Under Review
+    notes: Accept
+
+  - title: "A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training"
+    authors:  Kai Wang, Yukun Zhou, Mingjia Shi, <strong>Zekai Li</strong>, Zhihang Yuan, Yuzhang Shang, Xiaojiang Peng, Hanwang Zhang, Yang You
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
+    pdf: https://arxiv.org/pdf/2405.17403
+    image: ./assets/img/Speed.png
+    code: https://github.com/NUS-HPC-AI-Lab/SpeeD.git
+    page: https://bdemo.github.io/SpeeD/
+    notes: Accept
 
   - title: "Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training"
     authors: Mingjia Shi1*, Yuhao Zhou2*, Ruiji Yu, <strong>Zekai Li</strong>, Zhiyuan Liang, Xuanlei Zhao, Xiaojiang Peng, Tanmay Rajpurohit, Ramakrishna Vedantam, Wangbo Zhao, Kai Wang, Yang You
@@ -34,16 +45,6 @@ main:
     code: https://github.com/NUS-HPC-AI-Lab/PAD
     # page: https://hanlab.mit.edu/projects/sparserefine
 
-    notes: Under Review
-
-  - title: "A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training"
-    authors:  Kai Wang, Yukun Zhou, Mingjia Shi, <strong>Zekai Li</strong>, Zhihang Yuan, Yuzhang Shang, Xiaojiang Peng, Hanwang Zhang, Yang You
-#    conference_short: ICLR
-#    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2405.17403
-    image: ./assets/img/Speed.png
-    code: https://github.com/Skhaki18/optin-transformer-pruning
-#    page: http://www.samirkhaki.com/optin-transformer-pruning/
     notes: Under Review
 
   - title: "Self-Adaptive Reasoning on Sub-Questions for Multi-Hop Question Answering"
