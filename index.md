@@ -21,6 +21,7 @@ Prior to that, I was a member at [NUS WING](https://wing.comp.nus.edu.sg/) super
 
 ## News
 
+**[Apr. 2025]**  I'll be joining Z-Lab as a PhD student advised by Professor [Zhijian Liu](https://zhijianliu.com/) at UC San Diego. \
 **[Feb. 2025]**  Two papers on dataset distillation and diffusion model acceleration are accepted to CVPR 2025. \
 **[Jun. 2024]**  I've started my research internship at Carnegie Mellon University advised by Professor Alexander Hauptmann and Dr. Zhi-Qi Cheng. \
 **[Mar. 2024]**  I've started my research internship at University of Toronto advised by Professor Konstantinos N Plataniotis. \
