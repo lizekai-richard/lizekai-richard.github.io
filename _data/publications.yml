@@ -25,7 +25,17 @@ main:
     code: https://github.com/NUS-HPC-AI-Lab/SpeeD.git
     page: https://bdemo.github.io/SpeeD/
     notes: Accept
-
+  
+  - title: "Dynamic Vision Mamba"
+    authors: Mengxuan Wu*, <strong>Zekai Li*†</strong>, Zhiyuan Liang*, Moyang Li, Xuanlei Zhao, Samir Khaki, Zheng Zhu, Xiaojiang Peng, Konstantinos N. Plataniotis, Kai Wang, Wangbo Zhao, Yang You
+    # conference_short: CVPR
+    # conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025."
+    pdf: https://arxiv.org/abs/2504.04787
+    image: ./assets/img/Dyvm.png
+    code: https://github.com/NUS-HPC-AI-Lab/DyVM
+    page: https://github.com/NUS-HPC-AI-Lab/DyVM
+    notes: Under Review
+    
   - title: "Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training"
     authors: Mingjia Shi1*, Yuhao Zhou2*, Ruiji Yu, <strong>Zekai Li</strong>, Zhiyuan Liang, Xuanlei Zhao, Xiaojiang Peng, Tanmay Rajpurohit, Ramakrishna Vedantam, Wangbo Zhao, Kai Wang, Yang You
     #    conference_short: ECCV

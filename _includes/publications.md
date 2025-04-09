@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications</h2>
 <br>
-<i id="publications" style="margin: 2px 0px -15px;">* Equal Contribution</i>
+<i id="publications" style="margin: 2px 0px -15px;">* Equal Contribution, † Project Lead</i>
 <div class="publications">
 <ol class="bibliography">
 
