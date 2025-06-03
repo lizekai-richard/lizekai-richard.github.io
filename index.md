@@ -4,18 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at the National University of Singapore. I'm interested in efficient machine learning, 
-such as dataset distillation, parameter generation, etc. I'm honored to be supervised by Dr. [Kai Wang](https://kaiwang960112.github.io/) and Professor
-[Yang You](https://www.comp.nus.edu.sg/~youy/) at [NUS HPC-AI Lab](https://ai.comp.nus.edu.sg/). I have done research internships remotely at University of Toronto (advised by professor
-[Konstantinos N Plataniotis](https://www.plataniotis.com/)) and Carnegie Mellon University (advised by professor [Alexander Hauptmann](https://www.cs.cmu.edu/~alex/)).
+I am a first-year PhD student at UC San Diego supervised by professor [Zhijian Liu](https://zhijianliu.com/). I completed my bachelor's degree at National University of Singapore. I work closely with professor [Yang You](https://www.comp.nus.edu.sg/~youy/) and Dr. [Kai Wang](https://kaiwang960112.github.io/) at [NUS HPC-AI Lab](https://ai.comp.nus.edu.sg/). I have done research internships at University of Toronto (advised by professor [Konstantinos N Plataniotis](https://www.plataniotis.com/)) and Carnegie Mellon University (advised by professor [Alexander Hauptmann](https://www.cs.cmu.edu/~alex/)). Prior to that, I was a member at [NUS WING](https://wing.comp.nus.edu.sg/) supervised by Professor [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/).
 
-Prior to that, I was a member at [NUS WING](https://wing.comp.nus.edu.sg/) supervised by Professor [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) on my UROP.
 
 ## Research Interests
 
-- **Efficient Deep Learning:** dataset distillation, model compression
-- **Generative Models:** parameter generation
-- **Natural Language Processing:** question-answering, LLM factuality and unlearning
+- **Efficient Deep Learning:** dataset distillation, model compression, training and inference acceleration
+- **Generative Models:** video generation, parameter generation, diffusion model
 
 {% include_relative _includes/research.md %}
 
