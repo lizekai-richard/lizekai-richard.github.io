@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student at UC San Diego supervised by professor [Zhijian Liu](https://zhijianliu.com/) at [Z-Lab](https://z-lab.ai/). I completed my bachelor's degree with first class honor at National University of Singapore. I work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/) and professor [Yang You](https://www.comp.nus.edu.sg/~youy/) at [NUS HPC-AI Lab](https://ai.comp.nus.edu.sg/). I have done research internships at University of Toronto (advised by professor [Konstantinos N Plataniotis](https://www.plataniotis.com/)) and Carnegie Mellon University (advised by professor [Alexander Hauptmann](https://www.cs.cmu.edu/~alex/)). Prior to that, I was a member at [NUS WING](https://wing.comp.nus.edu.sg/) supervised by Professor [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/).
+I am an incoming PhD student at UC San Diego supervised by professor [Zhijian Liu](https://zhijianliu.com/) at [Z-Lab](https://z-lab.ai/). I completed my bachelor's degree with first class honor at National University of Singapore. I work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/) and professor [Yang You](https://www.comp.nus.edu.sg/~youy/) at [NUS HPC-AI Lab](https://ai.comp.nus.edu.sg/). I have done research internships at University of Toronto (advised by professor [Konstantinos N Plataniotis](https://www.plataniotis.com/)) and Carnegie Mellon University (advised by professor [Alexander Hauptmann](https://www.cs.cmu.edu/~alex/)). Prior to that, I was a member at [NUS WING](https://wing.comp.nus.edu.sg/) supervised by Professor [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/).
 
 
 ## Research Interests
