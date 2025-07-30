@@ -6,6 +6,7 @@ layout: homepage
 
 I am an incoming PhD student at UC San Diego supervised by professor [Zhijian Liu](https://zhijianliu.com/) at [Z-Lab](https://z-lab.ai/). I completed my bachelor's degree with first class honor at National University of Singapore. I work closely with Dr. [Kai Wang](https://kaiwang960112.github.io/). 
 
+I'm open to collaboration or discussion about any research topics. Feel free to contact me via email: zekaili \[at\] ucsd \[dot\] edu.
 
 ## Research Interests
 
