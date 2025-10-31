@@ -17,9 +17,9 @@ I'm open to collaboration or discussion about any research topics. Feel free to 
 
 ## News
 
-**[Sep. 2025]**  Three papers are accepted to NeurIPS 2025. Congratulations to all my collaborators.
+**[Sep. 2025]**  Three papers are accepted to NeurIPS 2025. Congratulations to all my collaborators. \
 **[Apr. 2025]**  I'll be joining Z-Lab as a PhD student advised by Professor [Zhijian Liu](https://zhijianliu.com/) at UC San Diego. \
-**[Feb. 2025]**  Two papers on dataset distillation and diffusion model acceleration are accepted to CVPR 2025. \
+**[Feb. 2025]**  Two papers on dataset distillation and diffusion model acceleration are accepted to CVPR 2025.
 
 
 {% include_relative _includes/publications.md %}
