@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>FlashVLA — LIBERO animation</title>
+  <link rel="stylesheet" href="animation.css">
+  <script type="module" src="animation.js"></script>
+</head>
+<body>
+  <main class="animation" aria-label="LIBERO: blocking decoding versus FlashVLA streaming decoding">
+    <div class="legend" aria-hidden="true"><span class="ramp"></span> noisy → clean <span class="executed-key"></span> executed</div>
+    <section class="lane" data-mode="blocking" data-trace="libero_pi05_trace.json" aria-labelledby="baseline-label">
+      <div class="lane-heading"><h2 id="baseline-label">π₀.₅</h2><span class="step-count"><b data-step>0</b> / <span data-total>186</span> steps</span></div>
+      <div class="lane-body">
+        <div class="schematic">
+          <div class="track" aria-label="Blocking action decoder"><div class="slots"></div><div class="chunks"></div><span class="divider"></span></div>
+          <div class="axis"><span>decoding</span><span>executed →</span></div>
+        </div>
+        <div class="robot-frame">
+          <video src="libero_pi05.mp4" poster="libero_pi05.jpg" muted playsinline preload="auto" disablepictureinpicture aria-label="π₀.₅ LIBERO episode"></video>
+          <span class="finished" hidden>finished</span>
+        </div>
+      </div>
+      <div class="progress"><div class="fill"></div></div>
+    </section>
+    <section class="lane" data-mode="streaming" data-trace="libero_flashvla_trace.json" aria-labelledby="flashvla-label">
+      <div class="lane-heading"><h2 id="flashvla-label">+ FlashVLA</h2><span class="step-count"><b data-step>0</b> / <span data-total>188</span> steps</span></div>
+      <div class="lane-body">
+        <div class="schematic">
+          <div class="track" aria-label="Streaming action buffer"><div class="slots"></div><div class="chunks"></div><span class="divider"></span></div>
+          <div class="axis"><span>streaming</span><span>executed →</span></div>
+        </div>
+        <div class="robot-frame">
+          <video src="libero_flashvla.mp4" poster="libero_flashvla.jpg" muted playsinline preload="auto" disablepictureinpicture aria-label="FlashVLA LIBERO episode"></video>
+          <span class="finished" hidden>finished</span>
+        </div>
+      </div>
+      <div class="progress"><div class="fill"></div></div>
+    </section>
+    <div class="controls">
+      <button type="button" data-play disabled aria-label="Pause animation">Pause</button>
+      <button type="button" data-restart disabled>Restart</button>
+      <span class="compact-note">LIBERO · pauses ×12</span>
+      <span class="status" role="status">Loading animation…</span>
+    </div>
+    <p class="note">Same task and seed; both runs successful. Decode pauses are magnified 12×, with the same motion playback rate in both rows.</p>
+    <noscript><p class="note">Enable JavaScript to play this animation.</p></noscript>
+  </main>
+</body>
+</html>

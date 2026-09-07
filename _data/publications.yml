@@ -1,6 +1,30 @@
 
 main:
+  - title: "FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference"
+    authors: <strong>Zekai Li</strong>, Jiaming Tang, Zhijian Liu
+    conference_short: CoRL
+    conference: "Conference on Robot Learning <strong>(CoRL)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2608.27384
+    image: ./assets/img/FlashVLA.png
+    animation: /assets/flashvla/index.html
+    code: https://github.com/z-lab/flashvla
+    blog: https://z-lab.ai/projects/flashvla/
+
+  - title: "FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving"
+    authors: <strong>Zekai Li*</strong>, Yihao Liang*, Hongfei Zhang, Jian Chen, Yesheng Liang, Zhijian Liu
+    conference_short: CoRL
+    conference: "Conference on Robot Learning <strong>(CoRL)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2608.12932
+    image: ./assets/img/FlashDrive.png
+    video_url: https://www.youtube.com/watch?v=tDzMYGD_1dA
+    video_embed: https://www.youtube.com/embed/tDzMYGD_1dA?autoplay=1&playsinline=1&rel=0
+    video_preview: https://www.youtube.com/embed/tDzMYGD_1dA?autoplay=1&mute=1&loop=1&playlist=tDzMYGD_1dA&playsinline=1&controls=0&rel=0
+    video_poster: https://i.ytimg.com/vi/tDzMYGD_1dA/hqdefault.jpg
+    code: https://github.com/z-lab/flashdrive
+    blog: https://z-lab.ai/projects/flashdrive/
+
   - title: "DD-Ranking: Rethinking the Evaluation of Dataset Distillation"
+    authors_short: <strong>Zekai Li*†</strong>, Xinhao Zhong*, et al.
     authors: <strong>Zekai Li*†</strong>, Xinhao Zhong*, Samir Khaki, Zhiyuan Liang, Yuhao Zhou, Mingjia Shi, Ziqiao Wang, Xuanlei Zhao, Wangbo Zhao, Ziheng Qin, Mengxuan Wu, Pengfei Zhou, Haonan Wang, David Junhao Zhang, Jia-Wei Liu, Shaobo Wang, Dai Liu, Linfeng Zhang, Guang Li, Kun Wang, Zheng Zhu, Zhiheng Ma, Joey Tianyi Zhou, Jiancheng Lv, Yaochu Jin, Peihao Wang, Kaipeng Zhang, Lingjuan Lyu, Yiran Huang, Zeynep Akata, Zhiwei Deng, Xindi Wu, George Cazenavette, Yuzhang Shang, Justin Cui, Jindong Gu, Qian Zheng, Hao Ye, Shuo Wang, Xiaobo Wang, Yan Yan, Angela Yao, Mike Zheng Shou, Tianlong Chen, Hakan Bilen, Baharan Mirzasoleiman, Manolis Kellis, Konstantinos N. Plataniotis, Zhangyang Wang, Bo Zhao, Yang You, Kai Wang
     pdf: https://github.com/NUS-HPC-AI-Lab/DD-Ranking
     image: ./assets/img/DD-Ranking.png
@@ -26,32 +50,3 @@ main:
     code: https://github.com/NUS-HPC-AI-Lab/SpeeD.git
     page: https://bdemo.github.io/SpeeD/
     notes: Accept
-  
-  - title: "Dynamic Vision Mamba"
-    authors: Mengxuan Wu*, <strong>Zekai Li*†</strong>, Zhiyuan Liang*, Moyang Li, Xuanlei Zhao, Samir Khaki, Zheng Zhu, Xiaojiang Peng, Konstantinos N. Plataniotis, Kai Wang, Wangbo Zhao, Yang You
-    pdf: https://arxiv.org/abs/2504.04787
-    image: ./assets/img/Dyvm.png
-    code: https://github.com/NUS-HPC-AI-Lab/DyVM
-    page: https://github.com/NUS-HPC-AI-Lab/DyVM
-    notes: Under Review
-    
-  - title: "Prioritize Alignment in Dataset Distillation"
-    authors: <strong>Zekai Li*</strong>, Ziyao Guo*, Wangbo Zhao, Tianle Zhang, Zhi-Qi Cheng, Samir Khaki, Kaipeng Zhang, Ahmad Sajedi, Konstantinos N Plataniotis, Kai Wang, Yang You
-#    conference_short: ECCV
-#    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2408.03360
-    image: ./assets/img/PAD.png
-    code: https://github.com/NUS-HPC-AI-Lab/PAD
-    # page: https://hanlab.mit.edu/projects/sparserefine
-
-    notes: Under Review
-
-  - title: "Self-Adaptive Reasoning on Sub-Questions for Multi-Hop Question Answering"
-    authors:  <strong>Zekai Li</strong>, Wei Peng
-    conference_short: ICASSP
-    conference: "IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023."
-    pdf: https://ieeexplore.ieee.org/document/10097206
-    image: ./assets/img/SAR.png
-    # code: https://github.com/DataDistillation/ATOM
-    # page: 
-    notes: Accept (Poster)
