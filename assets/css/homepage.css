@@ -139,6 +139,10 @@ main > ul > li { margin-bottom: 7px; }
 .publication-note { color: var(--muted); font-size: .875rem; font-style: italic; }
 .publication-links { font-size: .9375rem; }
 .all-publications { font-size: .9375rem; }
+.internship { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 24px; }
+.internship h3 { margin: 0 0 2px; font-size: 1rem; }
+.internship p { margin: 0; font-size: .9375rem; }
+.internship .internship-dates { color: var(--muted); font-size: .875rem; white-space: nowrap; }
 .site-footer { margin-top: 48px; color: var(--muted); font-size: .8125rem; text-align: right; }
 .site-footer p { margin-bottom: 0; }
 .skip-link { position: absolute; top: -100px; left: 16px; background: #fff; padding: 10px 16px; }

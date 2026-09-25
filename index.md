@@ -9,3 +9,14 @@ intro: |
 ---
 
 {% include_relative _includes/publications.md %}
+
+<section aria-labelledby="internships">
+  <h2 id="internships">Internship Experience</h2>
+  <div class="internship">
+    <div>
+      <h3>NVIDIA</h3>
+      <p>Research Intern</p>
+    </div>
+    <p class="internship-dates"><time datetime="2026-06">Jun</time>–<time datetime="2026-09">Sep 2026</time></p>
+  </div>
+</section>
