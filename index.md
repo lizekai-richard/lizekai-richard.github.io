@@ -13,6 +13,8 @@ intro: |
 <section aria-labelledby="internships">
   <h2 id="internships">Internship Experience</h2>
   <div class="internship">
+    <!-- Official logo: https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/ -->
+    <img class="internship-logo" src="{{ '/assets/img/nvidia-logo.svg' | relative_url }}" alt="" width="200" height="113" loading="lazy" decoding="async">
     <div>
       <h3>NVIDIA</h3>
       <p>Research Intern</p>

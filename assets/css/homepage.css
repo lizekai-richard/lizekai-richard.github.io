@@ -139,7 +139,8 @@ main > ul > li { margin-bottom: 7px; }
 .publication-note { color: var(--muted); font-size: .875rem; font-style: italic; }
 .publication-links { font-size: .9375rem; }
 .all-publications { font-size: .9375rem; }
-.internship { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 24px; }
+.internship { display: grid; grid-template-columns: 200px minmax(0, 1fr) auto; align-items: center; gap: 8px 28px; }
+.internship-logo { width: 200px; height: auto; }
 .internship h3 { margin: 0 0 2px; font-size: 1rem; }
 .internship p { margin: 0; font-size: .9375rem; }
 .internship .internship-dates { color: var(--muted); font-size: .875rem; white-space: nowrap; }
@@ -158,6 +159,9 @@ main > ul > li { margin-bottom: 7px; }
   .publication-no-image { grid-template-columns: minmax(0, 1fr); }
   .publication-image img { width: 200px; height: 120px; }
   .publication-video { width: 200px; }
+  .internship { grid-template-columns: 200px minmax(0, 1fr); column-gap: 20px; }
+  .internship-logo { grid-row: 1 / span 2; }
+  .internship .internship-dates { grid-column: 2; }
   .news-list li { grid-template-columns: 78px minmax(0, 1fr); gap: 10px; }
 }
 @media (max-width: 480px) {
@@ -165,6 +169,8 @@ main > ul > li { margin-bottom: 7px; }
   .publication { grid-template-columns: minmax(0, 1fr); gap: 12px; margin-bottom: 32px; }
   .publication-image { width: 100%; max-width: 240px; }
   .publication-image img { width: 100%; height: auto; max-height: 150px; object-position: left center; }
+  .internship { grid-template-columns: 120px minmax(0, 1fr); column-gap: 16px; }
+  .internship-logo { width: 120px; }
   .news-list li { grid-template-columns: minmax(0, 1fr); gap: 1px; margin-bottom: 13px; }
   .news-list time { font-size: .875rem; }
   .site-footer { text-align: left; }
