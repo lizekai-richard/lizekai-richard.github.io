@@ -1,6 +1,6 @@
 <section class="publications" aria-labelledby="publications">
   <h2 id="publications">Selected Publications</h2>
-  <p class="publication-legend">* Equal contribution &nbsp; · &nbsp; † Project lead</p>
+  <p class="publication-legend">* Equal contribution</p>
   {% assign has_video = false %}
   <ol class="publication-list">
     {% for publication in site.data.publications.main %}
